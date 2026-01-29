@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Editor & OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# AI cache
+chromadb/
+
+# Node modules
+node_modules/
