@@ -102,15 +102,6 @@ Admin: admin@dropskill.ai / admin123
 - **AI**: RAG with ChromaDB (vector store ready)
 - **Auth**: JWT tokens
 
-## 🔜 Scaling Roadmap
 
-| Phase | Categories |
-|-------|-----------|
-| MVP | Tech & Accessories |
-| Phase 2 | + Fashion, Home |
-| Phase 3 | + Beauty, Sports |
-| Phase 4 | Full marketplace |
 
-## 📄 License
 
-MIT License - Built with DropSkill AI
